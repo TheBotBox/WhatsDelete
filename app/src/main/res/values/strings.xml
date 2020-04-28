@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsDelete</string>
+
+    <string name="grant_permission">Requires Notification Access Permission to continue</string>
+    <string name="allow_permission">Allow</string>
+    <string name="deny_permission">Deny</string>
+    <string name="exit">Exit</string>
+    <string name="no_saved_messages_right_now">No saved messages right now</string>
+</resources>

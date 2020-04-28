@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FEA47F</color>
+    <color name="colorPrimaryDark">#F97F51</color>
+    <color name="colorAccent">#2C3A47</color>
+    <color name="color_bg_chat_room">#f6f6f6</color>
+    <color name="divider">#e8e8e8</color>
+    <color name="foreground_chat_select">#331D443F</color>
+</resources>
