@@ -1,6 +1,6 @@
 <h1 align="center">WhatsDelete</h1></br>
 <p align="center">  
-A fun, MacGyver application for recovering deleted messages of <a href="https://play.google.com/store/apps/details?id=com.whatsapp" target="_blank">WhatsApp </a> based on MVVM architectur and <a href="https://codelabs.developers.google.com/codelabs/kotlin-android-training-repository/#5" target="_blank">Repository Pattern</a>  
+A fun, MacGyver application for recovering deleted messages of <a href="https://play.google.com/store/apps/details?id=com.whatsapp" target="_blank">WhatsApp </a> based on MVVM architecture and <a href="https://codelabs.developers.google.com/codelabs/kotlin-android-training-repository/#5" target="_blank">Repository Pattern</a>  
 </p>
 </br>    
 
